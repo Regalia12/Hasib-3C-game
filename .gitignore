@@ -71,3 +71,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Player detector/Library/*
+Player detector/Logs/*
+Player detector/Temp/*
+Player detector/.vscode/*
+Player detector/*.sln/*
